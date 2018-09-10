@@ -98,7 +98,7 @@ spaceman(
 
 def letters_guessed(attempt):
 
-    if letters_guessed.isalpha():
+    if input() == 
         lower_attempt = attempt.lower()
         return lower_attempt
         print(lower_attempt)
