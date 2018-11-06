@@ -1,0 +1,10 @@
+Madlibs
+
+Requirements:
+
+user input
+dictionary
+letters guessed
+revealing how many letters in chosen word
+when guessed correctly reveal letter
+when guessed incorrectly spaceman drawn
